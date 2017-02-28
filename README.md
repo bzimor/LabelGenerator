@@ -1,5 +1,5 @@
 # LabelGenerator
-Tiny but fully functional box label generator software sample built using Python and HTML.
+Tiny but fully functional box label generator software sample built using Python tkinter and HTML.
 You can use this software in your own purpose or just a learning sample.
 
 Requirements:
