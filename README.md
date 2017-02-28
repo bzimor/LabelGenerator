@@ -8,9 +8,9 @@ Requirements:
 
 - Python 3.4 or higher
 - Python modules:
--- pillow
--- qrcode
--- pdfkit
+  - pillow
+  - qrcode
+  - pdfkit
 - Wkhtmltopdf from http://wkhtmltopdf.org/downloads.html
 
 2) For binary:
